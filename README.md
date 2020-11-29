@@ -1,5 +1,5 @@
 # Claymore MongoDB Exercises
-In this project I want to use MongoDB commands to query the collection. There will be a init script that reverts the database in a starting version, so if any command is destructive there will be a script to start over.
+In this project I want to use MongoDB commands to query the collection. There will be a init script that reverts the database in a starting version, so if any command is destructive there will be a script to start over. Also, the final script with the final structure of the database will be present.
 
 For more information about the characters and data used here, take a look at [Claymore Wiki](https://claymore.fandom.com/wiki/Claymore)
 
