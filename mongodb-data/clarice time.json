@@ -1,0 +1,293 @@
+[
+    {
+        "_id": "alicia",
+        "name": "Alicia",
+        "epitaph": "Alicia the Black",
+        "rank": 1,
+        "type": "Special",
+        "techniques": [
+            "Soul Link"
+        ],
+        "fate": "Dead (Awakened, killed by Priscilla",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/b/b7/Aliciarank.png/revision/latest?cb=20110719111544",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/e/ec/Alicia.jpg/revision/latest?cb=20081220230819"
+    },
+    {
+        "_id": "beth",
+        "name": "Beth",
+        "epitaph": "Beth the Black",
+        "rank": 2,
+        "type": "Special",
+        "techniques": [
+            "Soul Link"
+        ],
+        "fate": "Dead (Awakened, killed by Priscilla",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/9/98/Bethrank.png/revision/latest?cb=20110720013923",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/c/c9/Beth_Avatar.jpg/revision/latest?cb=20121209212037"
+    },
+    {
+        "_id": "audrey",
+        "name": "Audrey",
+        "epitaph": "Gentle Sword Audrey",
+        "rank": 3,
+        "type": "Defensive",
+        "techniques": [
+            "Gentle Sword"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/4/4a/Audreyrank.png/revision/latest?cb=20110720042338",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/4/41/-Audrey.jpg/revision/latest?cb=20111208213924"
+    },
+    {
+        "_id": "miata",
+        "name": "Miata",
+        "epitaph": "Blood Eye Miata",
+        "rank": 4,
+        "type": "Offensive",
+        "techniques": [
+            "Soul Link"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/9/91/Miatarank.png/revision/latest?cb=20110720042356",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/f/f7/Miata_2.jpg/revision/latest?cb=20121226175951"
+    },
+    {
+        "_id": "rachel",
+        "name": "Rachel",
+        "epitaph": "Strong Sword Rachel",
+        "rank": 5,
+        "type": "Offensive",
+        "techniques": [
+            "Strong Sword"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/2/23/Rachelrank.png/revision/latest?cb=20110720042504",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/c/cc/-Rachel.jpg/revision/latest?cb=20111208214028"
+    },
+    {
+        "_id": "renee",
+        "name": "Renee",
+        "epitaph": "None",
+        "rank": 6,
+        "type": "Defensive",
+        "techniques": [
+            "Wide Range Yoki Sensing",
+            "Yoki Manipulation"
+        ],
+        "fate": "Unknown",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/6/69/Reneerank.png/revision/latest?cb=20090705212400",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/1/11/Renee.jpg/revision/latest?cb=20091026151143"
+    },
+    {
+        "_id": "anastasia",
+        "name": "Anastasia",
+        "epitaph": "The Winged Anastasia",
+        "rank": 7,
+        "type": "Unknown",
+        "techniques": [
+            "Winged Technique"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/7/78/Anastasia%27s_Symbol.jpg/revision/latest?cb=20101226235533",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/f/fc/Anastasia_3.png/revision/latest?cb=20120904113542"
+    },
+    {
+        "_id": "dietrich",
+        "name": "Dietrich",
+        "epitaph": "Tracker Dietrich",
+        "rank": 8,
+        "type": "Offensive",
+        "techniques": [
+            "Unnamed Special Attack"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/8/86/Dietrichrank.png/revision/latest?cb=20090705215515",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/a/ab/Dietrich_images4.jpg/revision/latest?cb=20120822200536"
+    },
+    {
+        "_id": "nina",
+        "name": "Nina",
+        "epitaph": "Shadow Hunter Nina",
+        "rank": 9,
+        "type": "Unknown",
+        "techniques": [
+            "Shadow Hunter"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/3/37/Nina%27s_Symbol.jpg/revision/latest?cb=20101221112539",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/5/53/Nina%281%29.jpg/revision/latest?cb=20120521194632"
+    },
+    {
+        "_id": "raftela",
+        "name": "Raftela",
+        "epitaph": "The Organization's Trump Card",
+        "rank": 10,
+        "type": "Unknown",
+        "techniques": [
+            "Sensory Control"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/d/d8/Raftela2.jpg/revision/latest?cb=20110720041436",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/0/06/Raftela.png/revision/latest?cb=20111219211623"
+    },
+    {
+        "_id": "violet",
+        "name": "Violet",
+        "epitaph": "Red Wall Violet",
+        "rank": 11,
+        "type": "Defensive",
+        "techniques": [
+            "Red Wall"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/e/e4/VioletSymbol.png/revision/latest?cb=20130602052745",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/6/6d/Violet.png/revision/latest?cb=20130602061124"
+    },
+    {
+        "_id": "abigail",
+        "name": "Abigail",
+        "epitaph": "Sand Cloud Abigail",
+        "rank": 12,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/9/9b/Simbolo_Abigail.png/revision/latest?cb=20130601174217",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/4/49/Abigail_No.12.png/revision/latest?cb=20130602061757"
+    },
+    {
+        "_id": "letitia",
+        "name": "Letitia",
+        "epitaph": "Beheader Letitia",
+        "rank": 13,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/a/a1/Letitia.png/revision/latest?cb=20130602061848"
+    },
+    {
+        "_id": "lina",
+        "name": "Lina",
+        "epitaph": "None",
+        "rank": 14,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/d/d5/Claymore14rank.png/revision/latest?cb=20090709022059",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/b/b3/Lina_No.14.png/revision/latest?cb=20130602061908"
+    },
+    {
+        "_id": "nike",
+        "name": "Nike",
+        "epitaph": "None",
+        "rank": 15,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/2/27/Nikerank.PNG/revision/latest?cb=20110211083105",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/9/9f/Nike.JPG/revision/latest?cb=20111113194335"
+    },
+    {
+        "_id": "tesla",
+        "name": "Tesla",
+        "epitaph": "None",
+        "rank": 16,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/6/63/TeslaSymbol.png/revision/latest?cb=20130602053921",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/c/c0/Tesla_No.16.png/revision/latest?cb=20130602061949"
+    },
+    {
+        "_id": "clarissa",
+        "name": "Clarissa",
+        "epitaph": "None",
+        "rank": 18,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/4/42/Simbolo_Clarissa.png/revision/latest?cb=20130601172107",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/c/ca/Clarissa_No.18.png/revision/latest?cb=20130602062010"
+    },
+    {
+        "_id": "dominique",
+        "name": "Dominique",
+        "epitaph": "None",
+        "rank": 19,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/7/7f/Dominique_No.19.png/revision/latest?cb=20130602062129"
+    },
+    {
+        "_id": "noma",
+        "name": "Noma",
+        "epitaph": "None",
+        "rank": 22,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/0/00/Noma_No.22.png/revision/latest?cb=20130602062143"
+    },
+    {
+        "_id": "minerva",
+        "name": "Minerva",
+        "epitaph": "None",
+        "rank": 24,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Alive",
+        "generation": "Clarice",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/c/ca/Minerva_No.24.png/revision/latest?cb=20130602062158"
+    },
+    {
+        "_id": "clarice",
+        "name": "Clarice",
+        "epitaph": "Color Head",
+        "rank": 47,
+        "type": "Unknown",
+        "techniques": [
+            "Soul Link"
+        ],
+        "fate": "Dead",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/4/42/Claricerank.png/revision/latest?cb=20090705202139",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/5/52/CLARICE-3.jpg/revision/latest?cb=20121226140445"
+    }
+]

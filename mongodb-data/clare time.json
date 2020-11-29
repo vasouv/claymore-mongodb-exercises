@@ -1,0 +1,446 @@
+[
+    {
+        "_id": "alicia",
+        "name": "Alicia",
+        "epitaph": "Alicia the Black",
+        "rank": 1,
+        "type": "Special",
+        "techniques": [
+            "Soul Link"
+        ],
+        "fate": "Dead (Awakened, killed by Priscilla)",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/b/b7/Aliciarank.png/revision/latest?cb=20110719111544",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/e/ec/Alicia.jpg/revision/latest?cb=20081220230819"
+    },
+    {
+        "_id": "beth",
+        "name": "Beth",
+        "epitaph": "Beth the Black",
+        "rank": 2,
+        "type": "Special",
+        "techniques": [
+            "Soul Link"
+        ],
+        "fate": "Dead (Awakened, killed by Priscilla)",
+        "generation": "Clarice",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/9/98/Bethrank.png/revision/latest?cb=20110720013923",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/c/c9/Beth_Avatar.jpg/revision/latest?cb=20121209212037"
+    },
+    {
+        "_id": "galatea",
+        "name": "Galatea",
+        "epitaph": "God-Eye Galatea",
+        "rank": 3,
+        "type": "Defensive",
+        "techniques": [
+            "Yoki Manipulation",
+            "Wide Range Yoki Sensing",
+            "Soul Link"
+        ],
+        "fate": "Alive",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/d/d8/Galatearank.png/revision/latest?cb=20110720013953",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/a/a9/Galatea_manga.png/revision/latest?cb=20130927163551"
+    },
+    {
+        "_id": "ophelia",
+        "name": "Ophelia",
+        "epitaph": "Rippling Ophelia",
+        "rank": 4,
+        "type": "Offensive",
+        "techniques": [
+            "Rippling Sword"
+        ],
+        "fate": "Dead (Awakened, killed by Clare)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/c/c2/Opheliarank.png/revision/latest?cb=20110720014010",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/0/0e/Ophelia_Color.png/revision/latest?cb=20140429210613"
+    },
+    {
+        "_id": "rafaela",
+        "name": "Rafaela",
+        "epitaph": "The One Eyed Warrior",
+        "rank": 5,
+        "type": "Offensive",
+        "techniques": [
+            "Soul Link"
+        ],
+        "fate": "Dead (Awakened and merged with Luciela, killed by Priscilla)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/9/9c/Rafaelarank.png/revision/latest?cb=20110720014025",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/d/de/1000px-Yoma_Energy_Suppression.jpg/revision/latest?cb=20140117033120"
+    },
+    {
+        "_id": "miria",
+        "name": "Miria",
+        "epitaph": "Phantom Miria",
+        "rank": 6,
+        "type": "Offensive",
+        "techniques": [
+            "Phantom Mirage",
+            "New Phantom Mirage",
+            "Awakened Phantom Mirage"
+        ],
+        "fate": "Alive",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/8/89/Miriarank.png/revision/latest?cb=20110720014040",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/a/a2/Miria_Xscar.png/revision/latest?cb=20140429195046"
+    },
+    {
+        "_id": "eva",
+        "name": "Eva",
+        "epitaph": "None",
+        "rank": 7,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the North, before the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/c/ca/Eva%27s_Symbol.jpg/revision/latest?cb=20101223214012",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/a/a1/Untitled.png/revision/latest?cb=20111212022744"
+    },
+    {
+        "_id": "flora",
+        "name": "Flora",
+        "epitaph": "Windcutter Flora",
+        "rank": 8,
+        "type": "Offensive",
+        "techniques": [
+            "Windcutter"
+        ],
+        "fate": "Dead (Killed By Rigardo)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/0/0a/Florarank.png/revision/latest?cb=20110720044422",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/d/d4/Flora_2.jpg/revision/latest?cb=20121231174200"
+    },
+    {
+        "_id": "jean",
+        "name": "Jean",
+        "epitaph": "Drill Sword Jean",
+        "rank": 9,
+        "type": "Offensive",
+        "techniques": [
+            "Drill Sword"
+        ],
+        "fate": "Dead (Sacrificed herself to Clare)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/5/57/Jeanrank.png/revision/latest?cb=20110720044453",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/a/a3/Jean-North_Battle.jpg/revision/latest?cb=20100329122326"
+    },
+    {
+        "_id": "undine",
+        "name": "Undine",
+        "epitaph": "Undine of the Twin Swords",
+        "rank": 11,
+        "type": "Offensive",
+        "techniques": [
+            "Double Sword Attack"
+        ],
+        "fate": "Dead (Killed By Rigardo)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/a/a4/Undinerank.png/revision/latest?cb=20110720044439",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/e/e6/Undine.png/revision/latest?cb=20080815192119"
+    },
+    {
+        "_id": "veronica",
+        "name": "Veronica",
+        "epitaph": "None",
+        "rank": 13,
+        "type": "Defensive",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed By Rigardo)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/1/11/Veronicarank.png/revision/latest?cb=20110720044507",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/b/b0/VERONICA.jpg/revision/latest?cb=20121217185451"
+    },
+    {
+        "_id": "cynthia",
+        "name": "Cynthia",
+        "epitaph": "None",
+        "rank": 14,
+        "type": "Defensive",
+        "techniques": [
+            "Yoki Manipulation"
+        ],
+        "fate": "Alive",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/0/0b/Cynthiarank.png/revision/latest?cb=20110720045405",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/6/68/Cynthia14.jpg/revision/latest?cb=20110114061726"
+    },
+    {
+        "_id": "deneve",
+        "name": "Deneve",
+        "epitaph": "Deneve of the Twin Swords",
+        "rank": 15,
+        "type": "Defensive",
+        "techniques": [
+            "Dual-wielding",
+            "Heightened Regeneration",
+            "Double-Sword Technique"
+        ],
+        "fate": "Alive",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/4/49/Deneverank.png/revision/latest?cb=20110720045419",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/a/ae/Denevehunt.jpg/revision/latest?cb=20110429192900"
+    },
+    {
+        "_id": "eliza",
+        "name": "Eliza",
+        "epitaph": "None",
+        "rank": 17,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/6/64/Eliza%27s_Symbol.jpg/revision/latest?cb=20101221130802",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/3/39/Eliza2.png/revision/latest?cb=20111212022224"
+    },
+    {
+        "_id": "lily",
+        "name": "Lily",
+        "epitaph": "None",
+        "rank": 18,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/9/93/Lily%27s_Symbol.jpg/revision/latest?cb=20101221132105",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/c/cf/421px-Lily.jpg/revision/latest?cb=20111208214223"
+    },
+    {
+        "_id": "queenie",
+        "name": "Queenie",
+        "epitaph": "None",
+        "rank": 20,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/0/0b/Queenie%27s_Symbol.jpg/revision/latest?cb=20101221014943",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/2/2c/397px-Queenie.jpg/revision/latest?cb=20111208214204"
+    },
+    {
+        "_id": "helen",
+        "name": "Helen",
+        "epitaph": "Snake-Arms Helen",
+        "rank": 22,
+        "type": "Offensive",
+        "techniques": [
+            "Extendable Limbs",
+            "Drill Sword"
+        ],
+        "fate": "Alive",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/1/13/Helenrank.png/revision/latest?cb=20110720045440",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/3/39/HelenEpisode10.png/revision/latest?cb=20110114061244"
+    },
+    {
+        "_id": "zelda",
+        "name": "Zelda",
+        "epitaph": "None",
+        "rank": 24,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/d/da/Zelda%27s_Symbol.jpg/revision/latest?cb=20101221133427",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/8/8f/Zelda_dopo_la_morte_di_Riccardo.jpg/revision/latest?cb=20130403092834"
+    },
+    {
+        "_id": "emelia",
+        "name": "Emelia",
+        "epitaph": "None",
+        "rank": 27,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/4/43/Emelia%27s_Symbol.jpg/revision/latest?cb=20101221133957",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/4/42/228px-Emelia.jpg/revision/latest?cb=20111208004341"
+    },
+    {
+        "_id": "wendy",
+        "name": "Wendy",
+        "epitaph": "None",
+        "rank": 30,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/e/e2/Wendy%27s_Symbol.jpg/revision/latest?cb=20101221135015",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/c/cc/Wendy.jpg/revision/latest?cb=20111208214431"
+    },
+    {
+        "_id": "tabitha",
+        "name": "Tabitha",
+        "epitaph": "Wide Range Tabitha",
+        "rank": 31,
+        "type": "Defensive",
+        "techniques": [
+            "Wide Range Yoki Sensing"
+        ],
+        "fate": "Dead (Killed by Priscilla)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/b/b9/Tabitha%27s_Symbol.jpg/revision/latest?cb=20101221135847",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/3/31/Tabitha_Profile.png/revision/latest?cb=20140430194803"
+    },
+    {
+        "_id": "katea",
+        "name": "Katea",
+        "epitaph": "None",
+        "rank": 32,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Awakened, killed by Dauf)",
+        "generation": "Clare",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/7/71/Katea.jpg/revision/latest?cb=20090707191832"
+    },
+    {
+        "_id": "pamela",
+        "name": "Pamela",
+        "epitaph": "None",
+        "rank": 35,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/5/5c/Pamela%27s_Symbol.jpg/revision/latest?cb=20101221140427",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/a/a6/250px-Pamela.png/revision/latest?cb=20130206214751"
+    },
+    {
+        "_id": "claudia",
+        "name": "Claudia",
+        "epitaph": "None",
+        "rank": 36,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/1/14/Claudia%27s_Symbol.jpg/revision/latest?cb=20101221143853",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/c/c0/Claudia-anime.jpg/revision/latest?cb=20121112184803"
+    },
+    {
+        "_id": "natalie",
+        "name": "Natalie",
+        "epitaph": "None",
+        "rank": 37,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/c/c6/Natalie%27s_Symbol.jpg/revision/latest?cb=20101221144324",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/8/82/366px-Natalie.jpg/revision/latest?cb=20111208214152"
+    },
+    {
+        "_id": "karla",
+        "name": "Karla",
+        "epitaph": "None",
+        "rank": 39,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/9/9a/Karlarank.png/revision/latest?cb=20110720045514",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/5/52/Karla.png/revision/latest?cb=20111216215533"
+    },
+    {
+        "_id": "yuma",
+        "name": "Yuma",
+        "epitaph": "Sword Thrower Yuma",
+        "rank": 40,
+        "type": "Defensive",
+        "techniques": [
+            "Advanced Sword Throwing",
+            "Yoki Manipulation"
+        ],
+        "fate": "Alive",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/7/79/Yumarank.png/revision/latest?cb=20110720045530",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/c/c7/Claymore-yuma-official_812.jpg/revision/latest?cb=20111223213324"
+    },
+    {
+        "_id": "matilda",
+        "name": "Matilda",
+        "epitaph": "None",
+        "rank": 41,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/3/3b/Matilda%27s_Symbol.jpg/revision/latest?cb=20101221150700",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/5/50/Matilda%27s_portrait.jpg/revision/latest?cb=20101221192552"
+    },
+    {
+        "_id": "juliana",
+        "name": "Juliana",
+        "epitaph": "None",
+        "rank": 43,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/d/d4/Juliana%27s_Symbol.jpg/revision/latest?cb=20101221152009",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/3/30/Juliana.jpg/revision/latest?cb=20111210000754"
+    },
+    {
+        "_id": "diana",
+        "name": "Diana",
+        "epitaph": "None",
+        "rank": 44,
+        "type": "Unknown",
+        "techniques": [
+            "Unknown"
+        ],
+        "fate": "Dead (Killed in the Northern Campaign)",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/9/92/Diana%27s_Symbol.jpg/revision/latest?cb=20101221153039",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/1/19/Deanna.png/revision/latest?cb=20111212022528"
+    },
+    {
+        "_id": "clare",
+        "name": "Clare",
+        "epitaph": "The Fastest Sword of All Claymores",
+        "rank": 47,
+        "type": "Offensive",
+        "techniques": [
+            "Quicksword",
+            "Windcutter",
+            "Acute Yoki Sensing",
+            "Rafaela's Fighting Style"
+        ],
+        "fate": "Alive",
+        "generation": "Clare",
+        "symbol": "https://static.wikia.nocookie.net/claymore/images/d/d8/Clarerank.png/revision/latest?cb=20110720045548",
+        "profile": "https://static.wikia.nocookie.net/claymore/images/d/d8/Clare_Profile.png/revision/latest?cb=20140430195629"
+    }
+]
