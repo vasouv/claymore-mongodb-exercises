@@ -23,12 +23,109 @@ For more information about the characters and data used here, take a look at [Cl
 `db.claymore.find({}).sort({rank:1});`
 
 ### Count all Claymores by generation
+```
+const aggregation = [
+  { $group: { 
+    _id : "$generation", 
+    count: { $sum: 1 } } }
+];
+
+db.claymore.aggregate(aggregation);
+```
+Result
+```
+[
+  {
+    "_id": "Clare",
+    "count": 29
+  },
+  {
+    "_id": "Teresa",
+    "count": 6
+  },
+  {
+    "_id": "Clarice",
+    "count": 21
+  }
+]
+```
 
 ### Find the average rank by generation
+```
+const aggregation = [
+  { $group: { 
+    _id : "$generation", 
+    avgOfRanks: { $avg: "$rank" } } }
+];
+
+db.claymore.aggregate(aggregation);
+```
+
+Result
+```
+[
+  {
+    "_id": "Clare",
+    "avgOfRanks": 23.379310344827587
+  },
+  {
+    "_id": "Teresa",
+    "avgOfRanks": 2.8333333333333335
+  },
+  {
+    "_id": "Clarice",
+    "avgOfRanks": 12.666666666666666
+  }
+]
+```
 
 ### Find the sum of ranks in all generations
+```
+const aggregation = [
+  { $group: { 
+    _id : null, 
+    sumOfRanks: { $sum: "$rank" } } }
+];
 
-### Find all offensive Claymores in each generation
+db.claymore.aggregate(aggregation);
+```
+
+Result
+```
+[
+  {
+    "_id": null,
+    "sumOfRanks": 961
+  }
+]
+```
+
+### Find all offensive Claymores in each generation - NOT CORRECT
+```
+const aggregation = [
+  { $match: { type: "Offensive" } },
+  { $group: { _id : "$generation", count: { $sum:1 } } }
+];
+
+db.claymore.aggregate(aggregation);
+```
+Result
+```
+[
+  {
+    "_id": "Clare",
+    "count": 8
+  },
+  {
+    "_id": "Teresa",
+    "count": 6
+  },
+  {
+    "_id": "Clarice",
+    "count": 3
+  }
+]
+```
 
 ### Convert generation field to String array
 set Alicia and Beth to both Clare and Clarice generations
