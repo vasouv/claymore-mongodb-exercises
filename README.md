@@ -128,6 +128,37 @@ Result
 ```
 
 ### Convert generation field to String array
-set Alicia and Beth to both Clare and Clarice generations
+Update documents by generation
+```
+db.claymore.updateMany(
+  { generation: "Clare" },
+  { $set: { generation: [ "Clare" ] } }
+);
+```
+```
+db.claymore.updateMany(
+  { generation: "Clarice" },
+  { $set: { generation: [ "Clarice" ] } }
+);
+```
+```
+db.claymore.updateMany(
+  { generation: "Teresa" },
+  { $set: { generation: [ "Teresa" ] } }
+);
+```
+Set Alicia and Beth to both Clare and Clarice generations
+```
+db.claymore.updateOne(
+  { _id: "beth" },
+  { $set: { generation: [ "Clare", "Clarice" ] } }
+);
+```
+```
+db.claymore.updateOne(
+  { _id: "alicia" },
+  { $set: { generation: [ "Clare", "Clarice" ] } }
+);
+```
 
 ### Remove fields with None/Unknown values (epitaph, type, techniques)
