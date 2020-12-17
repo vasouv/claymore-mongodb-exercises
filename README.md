@@ -131,6 +131,7 @@ Result
 
 ### Find the distinct generations for all Claymores
 `db.claymore.distinct("generation");`
+
 Result
 ```
 [
