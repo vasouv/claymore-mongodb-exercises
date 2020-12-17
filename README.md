@@ -164,3 +164,24 @@ db.claymore.updateOne(
 ```
 
 ### Remove fields with None/Unknown values (epitaph, type, techniques)
+Remove **epitaph** field when is Unknown
+```
+db.claymore.updateMany(
+  { epitaph: "None" },
+  { $unset: { epitaph: "" } }
+);
+```
+Remove **techniques** field when contains Unknown
+```
+db.claymore.updateMany(
+  { techniques: "Unknown" },
+  { $unset: { techniques: "" } }
+);
+```
+Remove **type** field when is Unknown
+```
+db.claymore.updateMany(
+  { type: "Unknown" },
+  { $unset: { type: "" } }
+);
+```
