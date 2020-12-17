@@ -3,6 +3,8 @@ In this project I want to use MongoDB commands to query the collection. There wi
 
 For more information about the characters and data used here, take a look at [Claymore Wiki](https://claymore.fandom.com/wiki/Claymore)
 
+Also, these commands are executed in the MongoDB Playground extension for VS Code.
+
 ## Exercises
 
 ### Find all Claymores with no epitaph
