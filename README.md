@@ -129,6 +129,17 @@ Result
 ]
 ```
 
+### Find the distinct generations for all Claymores
+`db.claymore.distinct("generation");`
+Result
+```
+[
+  "Clare",
+  "Clarice",
+  "Teresa"
+]
+```
+
 ### Convert generation field to String array
 Update documents by generation
 ```
