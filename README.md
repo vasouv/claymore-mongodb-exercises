@@ -102,33 +102,6 @@ Result
 ]
 ```
 
-### Find all offensive Claymores in each generation - NOT CORRECT
-```
-const aggregation = [
-  { $match: { type: "Offensive" } },
-  { $group: { _id : "$generation", count: { $sum:1 } } }
-];
-
-db.claymore.aggregate(aggregation);
-```
-Result
-```
-[
-  {
-    "_id": "Clare",
-    "count": 8
-  },
-  {
-    "_id": "Teresa",
-    "count": 6
-  },
-  {
-    "_id": "Clarice",
-    "count": 3
-  }
-]
-```
-
 ### Find the distinct generations for all Claymores
 `db.claymore.distinct("generation");`
 
